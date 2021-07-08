@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kanok7x
+- 👋 Hi, I’m Kanok
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning machine learning algorithm
-- 💞️ I’m looking to collaborate on data scientists 
+- 💞️ I’m looking to collaborate with data scientists 
 - 📫 mail me to nasrullah.kanok7@gmail.com
 
 <!---
